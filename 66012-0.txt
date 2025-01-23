@@ -1,0 +1,1817 @@
+﻿The Project Gutenberg eBook of Identifying Hardwoods Growing on Pine Sites,
+by Clair A. Brown
+
+This eBook is for the use of anyone anywhere in the United States and
+most other parts of the world at no cost and with almost no restrictions
+whatsoever. You may copy it, give it away or re-use it under the terms
+of the Project Gutenberg License included with this eBook or online at
+www.gutenberg.org. If you are not located in the United States, you
+will have to check the laws of the country where you are located before
+using this eBook.
+
+Title: Identifying Hardwoods Growing on Pine Sites
+       Forest Service General Technical Report SO-15
+
+Author: Clair A. Brown
+        Harold E. Grelen
+
+Release Date: August 8, 2021 [eBook #66012]
+
+Language: English
+
+Character set encoding: UTF-8
+
+Produced by: Stephen Hutcheson and the Online Distributed Proofreading
+             Team at https://www.pgdp.net
+
+*** START OF THE PROJECT GUTENBERG EBOOK IDENTIFYING HARDWOODS GROWING ON
+PINE SITES ***
+
+
+
+
+                             Clair A. Brown
+                            Harold E. Grelen
+
+
+
+
+              IDENTIFYING HARDWOODS GROWING ON PINE SITES
+
+
+                   Southern Forest Experiment Station
+                    U.S. Department of Agriculture,
+                             Forest Service
+                     General Technical Report SO-15
+
+
+
+
+                            Acknowledgments
+
+
+The authors thank Bryan A. Jowers, Glendale, California, for the
+excellent winter silhouettes. For help in obtaining specimens or
+photographs of species not easily accessible to us, we thank the
+following: Roger W. Barbour, University of Kentucky; William Harlow,
+College of Environmental Science and Forestry, State University of New
+York; Richard Johnson, Caroline Dormon Nature Preserve; Betty E. Lemon,
+University of Southwestern Louisiana; R. Dale Thomas, Northeast
+Louisiana University; and Lino Della-Bianca and Edwin R. Lawson of the
+U.S. Forest Service.
+
+
+
+
+                                Summary
+
+
+This publication illustrates and describes 26 hardwood species or
+varieties, including 16 oaks and hickories, with photographs of leaves,
+bark, buds, flowers, and fruits. Line drawings feature the winter
+silhouette of each species and a key is included to assist in
+identification.
+
+
+
+
+                     US. Department of Agriculture
+             Forest Service General Technical Report SO-15
+
+
+
+
+              Identifying Hardwoods Growing On Pine Sites
+
+
+                            _CLAIR A. BROWN_
+                          Professor Emeritus,
+                          Department of Botany
+                       Louisiana State University
+                         Baton Rouge, Louisiana
+
+                           _HAROLD E. GRELEN_
+                       Principal Range Scientist
+                   Southern Forest Experiment Station
+                          Forest Service—USDA
+                          Pineville, Louisiana
+
+
+                                  1977
+
+ For sale by the Superintendent of Documents, U.S. Government Printing
+                     Office, Washington, D.C. 20402
+
+
+
+
+                                Contents
+
+
+                                                                    Page
+  Overview of Southern Hardwoods                                       1
+  Key to Hardwoods                                                     6
+  Species Described and Illustrated
+      Mockernut hickory                                               10
+      Pignut hickory                                                  12
+      Shagbark hickory                                                14
+      Bitternut hickory                                               16
+      Southern red oak                                                18
+      Cherrybark oak                                                  20
+      Black oak                                                       22
+      Scarlet oak                                                     24
+      Northern red oak                                                26
+      Shumard oak                                                     28
+      Blackjack oak                                                   30
+      Laurel oak                                                      32
+      Water oak                                                       34
+      White oak                                                       36
+      Post oak                                                        38
+      Chestnut oak                                                    40
+      Winged elm                                                      42
+      American elm                                                    44
+      Sugarberry                                                      46
+      Yellow-poplar                                                   48
+      Sweetbay                                                        50
+      Sweetgum                                                        52
+      Red maple                                                       54
+      Black tupelo                                                    56
+      White ash                                                       58
+      Green ash                                                       60
+  Selected References                                                 63
+  Glossary                                                            65
+  Index                                                               69
+
+
+
+
+                     Overview of Southern Hardwoods
+
+
+Throughout the South some 49 billion cubic feet of small, low-quality
+hardwoods are growing on southern pine sites[1] (Staff, For. Resour.
+Res. Work Unit 1976). This material is usually wasted; if the site is
+prepared for regeneration to pine, the hardwoods there are destroyed.
+Research is underway to find economical methods of harvesting and
+utilizing these hardwoods. The descriptions, key, and illustrations in
+this book should help wood utilization researchers, especially those new
+to the South, to identify the most prevalent hardwood species on
+southern pine sites (Table 1).
+
+
+Table 1.—_Important hardwoods on southern pine sites, ranked according
+to percentage of total hardwood volume_
+
+  Percentages were derived from Staff, For. Resour. Res. Work Unit
+  (1976).
+
+  Nomenclature used herein follows Little (1953).
+
+                           _Species_                           _Percent_
+
+  Sweetgum         _Liquidambar styraciflua_ L.                     13.2
+  White oak        _Quercus alba_ L.                                12.3
+  Hickory          _Carya_ spp.                                      8.5
+  Southern red oak _Quercus falcata_ Michx.                          8.1
+  Post oak         _Quercus stellata_ Wangenh.                       7.0
+  Yellow-poplar    _Liriodendron tulipifera_ L.                      7.0
+  Black tupelo     _Nyssa sylvatica_ Marsh.                          5.5
+  Water oak        _Quercus nigra_ L.                                4.7
+  Black oak        _Quercus velutina_ Lam.                           4.0
+  Scarlet oak      _Quercus coccinea_ Muenchh.                       3.6
+  Red maple        _Acer rubrum_ L.                                  3.6
+  Chestnut oak     _Quercus prinus_ L.                               2.9
+  Northern red oak _Quercus rubra_ L.                                2.4
+  Laurel oak       _Quercus laurifolia_ Michx.                       1.4
+  Elm              _Ulmus_ spp.                                      1.4
+  Cherrybark oak   _Quercus falcata_ var. _pagodaefolia_ Ell.        1.2
+  Ash              _Fraxinus_ spp.                                    .9
+  Sweetbay         _Magnolia virginiana_ L.                           .6
+  Shumard oak      _Quercus shumardii_ Buckl.                         .2
+  Hackberry        _Celtis_ spp.                                      .1
+  Other hardwoods  including blackjack oak (_Quercus                11.4
+                   marilandica_ Muenchh.)
+  Total hardwoods                                                  100.0
+
+
+Hickories have alternate compound leaves with 5 to 13 leaflets. They are
+monoecious; that is, the stamens and pistil are borne in separate
+flowers on the same plant. Flowers generally develop after the leaves
+are three-fourths to full grown. Staminate flowers are in catkins, which
+occur on last year’s wood and usually have three branches. The stalkless
+pistillate flowers are in several-flowered spikes at the apex of the
+current season’s growth. Catkins last from 10 days to 3 weeks and are
+usually not useful in distinguishing the species. The fruit, however, is
+widely used for identification. The husk may be very thin (about 1 mm),
+moderately thick (3 to 5 mm), or very thick (more than 5 mm). Similarly,
+the shell may be thin, moderately thick, or very thick. The meat varies
+from sweet to bitter. Upon drying, the husk usually separates along
+sutures and frees the nut. In some species the husk partly splits at the
+sutures but still encloses the nut when it falls. Such nuts are usually
+sterile, because the meat is seldom filled out.
+
+For identification purposes use nuts from the ground with caution; if
+more than one species grows in the vicinity, the fruits could be mixed.
+Also some trees shed defective or sterile fruits early, and these fruits
+are often different in shape and size from typical fruit.
+
+Hickories are generally divided into true hickories, which have
+overlapping (imbricate) bud scales, and pecan hickories, which have
+valvate bud scales. True hickories are divided into those with tight
+bark and those with loose bark. Mockernut Hickory, _Carya tomentosa_
+Nutt., a tight bark species, has very pubescent leaves, large buds, and
+a thick husk over a large nut. Pignut Hickory, _C. glabra_ (Mill.)
+Sweet, also a tight bark hickory, has three to nine glabrous leaflets
+and a tardily dehiscing husk about 3 mm thick. Shagbark Hickory, _C.
+ovata_ (Mill.) K. Koch, is one of the few species with bark in thin,
+loose plates. It has small buds and usually has five leaflets. Bitternut
+Hickory, _C. cordiformis_ (Wangenh.) K. Koch, belongs to the pecan
+hickory group and has yellow buds with valvate scales. It also has tight
+bark, thin four-winged husks, thin shells, and bitter meat.
+
+Oaks are also monoecious, and staminate flowers are in drooping catkins,
+which consist of a central, flexible axis with sessile, apetalous and
+pubescent flowers. They are most abundant on the developing new twigs.
+Although catkins vary among oaks, they are usually not used as
+distinguishing characteristics because they last only 2 to 3 weeks.
+Pistillate flowers occur on wood of the previous season and in leaf
+axils of twigs. In red oaks, however, pistillate flowers on current
+twigs do not mature until the second fall.
+
+The fruit, a nut or acorn, consists of the seed enclosed in a shell. The
+nut is seated in a cup consisting of many scales. At maturity nuts are
+shed from the tree by shrinkage of the cup (dehydration). Considerable
+variation in mature acorn size occurs among trees of a species, notably
+in water oak, willow oak, and white oak.
+
+Differences in foliage within a species also complicate identification.
+Apparently because lower leaves receive less sunlight they differ in
+size and appearance from those in the middle or upper crown. Most
+taxonomists prefer a specimen from the upper half of the crown because
+they consider leaves from this area typical for the species. To get such
+specimens easily, use a tree pruner and take leaves from at least 20 to
+30 feet off the ground or collect them from freshly felled trees.
+Moreover, foliage of seedlings and small saplings often differs from
+that of mature trees, and spring and summer growth flushes on the same
+branch often appear markedly different. This seasonal variation has been
+noted for many oaks, including laurel, post, blackjack, and especially
+water oak. For example, by late March or April, water oak leaves reach
+their normal size and shape—obovate with a wavy apex; the second flush
+of growth, which starts in late April or May, produces lobed leaves.
+
+Identification is further complicated because hybrids commonly occur
+among the oaks.
+
+The oaks are divided into two main groups: the white oaks and the red
+(or black) oaks. The white oaks have leaves with rounded lobes and no
+bristles; acorns mature the first fall, and the inner surface of the
+shell is glabrous. White oak, chestnut oak, and post oak belong to this
+group. The red oak group is characterized by bristle-tipped leaf lobes
+in such species as Shumard, southern red, northern red, cherrybark, and
+black oak. The red oak group also includes non-lobed species such as
+water, laurel, and willow oak, which usually have entire margins.
+Blackjack oak leaves usually lack lobes and bristles, but leaves with
+terminal lobes occasionally occur and may have one bristle per lobe.
+Acorns mature the second fall, and the inner surface of the shell is
+pubescent.
+
+Southern Red Oak, _Quercus falcata_ Michx., and its variety Cherrybark
+Oak, _Q. falcata_ var. _pagodaefolia_ Ell., have almost identical
+acorns, but they can be distinguished by other characteristics. The leaf
+base of southern red oak is somewhat bell-shaped, but that of cherrybark
+is not. Southern red oak forms heavy ridges of bark; cherrybark does
+not.
+
+The distinctive feature of Black Oak, _Q. velutina_ Lam., is its
+yellow-orange inner bark. Its leaves take three forms. Seedlings to
+small saplings have a “bear-paw” leaf with only a suggestion of lobing.
+Lower leaves on large trees also have little lobing, but leaves from the
+middle and upper crown are clearly lobed. The uppermost leaves, which
+have seven lobes and deep sinuses, are usually illustrated as typical.
+
+Scarlet, _Q. coccinea_ Muenchh., Northern Red, _Q. rubra_ L., and
+Shumard Oak, _Q. shumardii_ Buckl., are difficult to distinguish.
+Northern red oak leaves have shallow sinuses and a dull-green upper
+surface with little or no pubescence in the vein axils on the underside.
+Shumard oak leaves have a glossier surface, shallow to deep sinuses that
+are usually wider than the adjacent lobes, and definite hairiness at the
+vein axils. The sinuses of scarlet oak are also usually wider than their
+adjacent lobes, which are usually toothed. Both Shumard and scarlet oak
+have outstanding fall coloration.
+
+Blackjack Oak, _Q. marilandica_ Muenchh., can be recognized by its
+leathery, usually entire, broadly obovate leaf, which has a rusty
+undersurface. The branches are stout, irregular, gnarled, drooping to
+horizontal.
+
+Laurel Oak, _Q. laurifolia_ Michx., and Water Oak, _Q. nigra_ L., are
+similar in size and shape, but water oak has oblong-obovate or
+spatula-shaped leaves gradually narrowed to a wedge-shaped base. Laurel
+oak leaves are elliptic to oblong-ovate. Laurel oaks tend to shed leaves
+late and thus may retain about 30 to 50 percent of their lower leaves
+after water oaks are bare. Some recent authors separate the laurel oaks
+into two species, upland laurel oak, _Q. hemisphaerica_ Bartr., and
+swamp laurel oak, _Q. laurifolia_ Michx.
+
+White Oak, _Q. alba_ L., has a thin, light green leaf with a light
+glaucous bloom at maturity; it is oblong or ovate, with rounded lobes
+and three to five narrow sinuses extending nearly to the mid-rib. The
+cup scales of the acorn-cup are heavy and distinct.
+
+Post Oak, _Q. stellata_ Wangenh., has stout, irregular branches. The
+leathery leaves are usually five-lobed; usually the two side lobes are
+at right angles to the central axis, thus forming a cross-shaped leaf.
+
+Chestnut Oak, _Q. prinus_ L., resembles swamp chestnut oak, _Q.
+michauxii_ Nutt., a commercially important tree southwide. Chestnut oak
+is primarily a northeastern tree, extending into the South along the
+Appalachian highlands into northern Georgia and Alabama where its range
+overlaps that of swamp chestnut oak, and its leaves lack the dense
+pubescence found on those of swamp chestnut oak.
+
+Common elms include American Elm, _Ulmus americana_ L., and Winged Elm,
+_U. alata_ Michx. Both bloom after a freeze breaks dormancy. For
+example, if a killing frost occurs in the last week of November or the
+first week of December, American elm will bloom the first week of
+January. If no killing frost occurs by early December. American elm may
+not bloom until the third week of January. Winged elm usually blooms 10
+days to 2 weeks later than American elm. Small winged elm trees
+frequently have a corky outgrowth on opposite sides of twigs at least 3
+years old. Mature trees often lack this characteristic. The American elm
+leaf has unequal basal lobing and pubescent or ciliate samaras about 12
+mm in diameter; winged elm has a smaller leaf with round to acute leaf
+bases and a very ciliate samara about 8 mm long.
+
+Young Sugarberry, _Celtis laevigata_ Willd., and Hackberry, _C.
+occidentalis_ L., trees are readily recognized by a whitish to light
+gray bark dotted with small corky warts. Older trees often have
+relatively smooth, light to medium gray bark. Leaf margins of sugarberry
+are usually entire or indistinctly toothed; the upper half of hackberry
+leaves are usually conspicuously serrate. Both species produce tiny
+flowers on the new growth when the leaves are about half normal size.
+The fruit of sugarberry is orange-red to black; that of hackberry is
+dark red to nearly black at maturity.
+
+Yellow-poplar, _Liriodendron tulipifera_ L., or tulip tree, has
+alternate, four- to six-lobed leaves with truncate to distinctly notched
+apices, a unique feature among American trees. The flowers are
+tulip-like with red markings on a greenish-yellow background. The fruit
+is a cone-like aggregate of samaras.
+
+Sweetbay, _Magnolia virginiana_ L., produces moderate-sized trunks on
+uplands or numerous pole-like suckers in branch bottoms. It is evergreen
+in the southern part of its range and deciduous in the northern portion.
+A wind blowing in the crown will expose the silvery underside of the
+leaves. The white flowers, about 5 to 10 cm in diameter, open for the
+first time about 3 p.m. and close about 9 p.m. They reopen the next
+morning and shed their stamens. The fruit is a green pickle-like
+aggregate of follicles that splits open to reveal red seeds. Sweetbay
+and yellow-poplar, both members of the Magnolia family, have stipule
+scars circling the twigs.
+
+Sweetgum, _Liquidambar styraciflua_ L., or redgum, is easily recognized
+by its alternate, star-shaped, palmately lobed leaves. Some trees have
+corky outgrowths on the small branches. Its flower consists of several
+round clusters of stamens arranged in a raceme and a stalked pistillate
+head that develops into a spiny, woody fruit containing many seeds.
+
+Red Maple, _Acer rubrum_ L., has simple, opposite leaves that are
+usually glaucous and pubescent. The flowers appear in early February and
+the fruit is a double samara. The variety _A. rubrum_ var. _drummondii_
+(Hook. and Arn.) Sarg., which has densely matted white hairs on the
+undersides of young leaves, grows in swamps throughout the South. Leaves
+may have three to five lobes, but southern trees are predominantly
+three-lobed. For this reason, some authors recognize the southern form
+as _A. rubrum_ var. _tridens_ Woods.
+
+The leaves of Black Tupelo (blackgum) _Nyssa sylvatica_ Marsh., are
+alternate, elliptical to obovate, and become spotted early in their
+development, turning purplish in September before their early shedding.
+The flowers are small, inconspicuous, and produce a blue-black fruit.
+
+Two of the most common ashes are White Ash, _Fraxinus americana_ L., and
+Green Ash, _F. pennsylvanica_ Marsh. The most reliable distinction
+between the two species appears to be samara differences. White ash has
+a plump, short seed end with the wing practically terminal, whereas
+green ash has a slender seed end and the wing extends more than halfway
+down the seed end. White ash usually has a rounded leaflet base, but
+green ash has wedge-shaped leaflet bases. The undersurfaces of fresh
+white ash leaves are white, but the color is difficult to detect on dry
+specimens. Green ash leaves are green on both surfaces, although
+somewhat paler on undersurfaces.
+
+
+
+
+                            Key To Hardwoods
+
+
+The key is composed of paired statements, one true and one false for any
+given specimen. The guide numbers at the end of statements are used to
+locate the next pair. Follow the true statements until you come to a
+common name. If you have made no mistake in interpreting the paired
+statements, you should arrive at the correct identity of the specimen.
+Then check the text and illustration.
+
+  1. Leaves compound, with blades divided into leaflets                2
+  1. Leaves simple, blades not divided into leaflets                   7
+    2. Leaves with opposite arrangement on twigs                       3
+    2. Leaves with alternate arrangement on twigs                      4
+  3. Leaflets with rounded bases, conspicuously whitish below when
+      fresh; seed end of samara thickened, wing terminal only  White Ash
+  3. Leaflets with wedge-shaped bases, green below; wing terminal and
+      extending about half the length of the seed              Green Ash
+    4. Buds valvate; buds, fruits, and lower surface of leaflets covered
+        with yellow glandular scales; fruit winged on upper half of husk
+        suture, husk thin, shell thin, meat bitter     Bitternut Hickory
+    4. Buds imbricate, composed of overlapping scales                  5
+  5. Leaflets typically 5, glabrous except for a few hairs on rachis and
+      midribs; bark shaggy                              Shagbark Hickory
+  5. Leaflets 7                                                        6
+    6. Leaflets densely tomentose; bark tight, in diamond-shaped
+        pattern; husk very thick, shell thick, meat sweet
+                                                       Mockernut Hickory
+    6. Leaflets usually glabrous; bark tight, in diamond-shaped pattern;
+        husk moderately thick, shell thick, meat sweet, husk tardily
+        dehiscent                                         Pignut Hickory
+  7. Leaves essentially evergreen, large percentage staying on trees
+      until bud expansion, dark green above, silky white pubescent
+      below; flowers white, about 5 to 8 cm in diameter         Sweetbay
+  7. Leaves typically deciduous, or trees retaining some dead leaves to
+      bud expansion                                                    8
+    8. Leaf margins entire                                             9
+    8. Leaf margins lobed or toothed                                  12
+  9. Leaves with rusty pubescence below, broadly obovate, leathery bases
+      tapering to cordate or cuneate                       Blackjack Oak
+  9. Leaves essentially glabrous or with a few hairs in vein axils    10
+    10. Leaves shiny below, elliptic or rhombic to spatulate  Laurel Oak
+    10. Leaves dull green below                                       11
+  11. Leaves elliptic to obovate, strongly veined with purple spots and
+      discoloration in summer; fruit a drupe                Black Tupelo
+  11. Leaves abruptly obovate, bases wedge-shaped, few lateral veins;
+      fruit an acorn                                           Water Oak
+    12. Leaf margins toothed                                          13
+    12. Leaf margins lobed                                            16
+  13. Margins indistinctly toothed, blades narrowly to broadly ovate,
+      base unequal, apex long acuminate                       Sugarberry
+  13. Margins distinctly toothed                                      14
+    14. Teeth obtuse or rounded, leaf base wedge-shaped, stellate
+        pubescent below                                     Chestnut Oak
+    14. Teeth sharp                                                   15
+  15. Leaves normally elliptic, veins prominent below, bases rounded;
+      corky outgrowths on older branches, often lacking on large trees
+                                                              Winged Elm
+  15. Leaves broadly oval, pinnate veins distinct, margins doubly
+      toothed, bases oblique, unequally rounded             American Elm
+    16. Leaves palmately lobed                                        17
+    16. Leaves pinnately or apically lobed                            18
+  17. Leaves opposite, more or less glaucous and pubescent below; fruit
+      a double samara                                          Red Maple
+  17. Leaves alternate, glabrous below; fruit spherical, woody with
+      spine-like projections; corky outgrowths on branches frequent
+                                                                Sweetgum
+    18. Blades truncate to notched at apex, 4-lobed; fruit an aggregate
+        of samaras; flower conspicuous, greenish-yellow with red
+        markings                                           Yellow-poplar
+    18. Blades with acute to obtuse apices                            19
+  19. Blades apically 3-lobed                                         20
+  19. Blades pinnately lobed                                          21
+    20. Blades broadly obovate, base rounded, rusty pubescent below
+                                                           Blackjack Oak
+    20. Blades narrowly obovate, base wedge-shaped, mostly glabrous
+                                                               Water Oak
+  21. Leaves with rounded lobes                                       22
+  21. Leaves with bristle tips to lobes and lateral teeth             23
+    22. Leaves with 7 to 9 lobes, divided nearly to the midrib, whitish
+        below                                                  White Oak
+    22. Leaves with 5 unequal lobes, upper lateral pair larger,
+        squarish, at right angles to midrib, crosslike in appearance,
+        pubescent below                                         Post Oak
+  23. Leaves pubescent below, whitish to tawny                        24
+  23. Leaves glabrous below or with a few hairs on midrib and in vein
+      axils                                                           26
+    24. Leaves with 7 to 9 lobes, terminal lobes long, strap-shaped,
+        slightly curved, bases bell-shaped              Southern Red Oak
+    24. Leaves with 7 to 11 lobes                                     25
+  25. Leaves oblong, 7 to 11 lobes, base broadly wedge-shaped to
+      truncate, secondary lobes rare; inner bark reddish  Cherrybark Oak
+  25. Leaves broadly oval, 7 to 9 lobes, each lobe with secondary
+      bristle-tipped teeth; inner bark yellow-orange           Black Oak
+    26. Upper leaf surface glossy green                               27
+    26. Upper leaf surface dull green, 7 to 9 lobes, 8 to 22 cm long,
+        round sinuses extending less than half way to midrib
+                                                        Northern Red Oak
+  27. Leaves with 7 to 9 narrow lobes, sinuses extending more than
+      halfway to midrib                                      Scarlet Oak
+  27. Leaves with 5 to 7 narrow lobes, rounded sinuses, extending about
+      three-fourths of way to midrib                         Shumard Oak
+
+
+
+
+                  _Species Described and Illustrated_
+
+
+Mockernut Hickory
+_Carya tomentosa_ Nutt.
+
+    [Illustration: silhouette]
+
+Bark grayish, tight, marked with distinct diamond-shaped ridges and
+furrows. Branches stout, drooping to spreading and ascending. Twigs 10
+to 12 mm in diameter, conspicuous leaf scars. Buds (terminal) 10 to 15
+mm long, 5 to 8 mm in diameter, scales imbricate. Leaves alternate,
+deciduous, odd-pinnately compound, 20 to 40 cm long with 5 to 7 drooping
+leaflets; yellow hairs and glandular hairs on lower leaflet surface,
+apex acuminate, margin finely serrate, base obtuse, on very short
+petiolules. Flowers unisexual, appearing in spring with developing
+leaves, staminate in 3-parted drooping catkins, pistillate terminal on
+new growth. Fruit subglobose to obovate, 3 to 5 cm in diameter, husk 1
+cm thick, slow to open, shell of nut thick and hard, meat sweet.
+
+    [Illustration: Mockernut Hickory/_Carya tomentosa_]
+
+
+Pignut Hickory
+_Carya glabra_ (Mill.) Sweet
+
+    [Illustration: silhouette]
+
+Bark light to dark gray, often blackish, rough and deeply furrowed.
+Branches stout, drooping to spreading. Twigs 3 to 5 mm in diameter,
+reddish brown, smooth. Buds ovoid, acute, glabrous, 8 to 12 mm long,
+scales imbricate. Leaves alternate, deciduous, odd-pinnately compound,
+20 to 40 cm long, usually with 7 leaflets; upper pair and terminal
+largest, 10 to 15 cm long by 4 to 6 cm wide, broadly oval to slightly
+obovate. Flowers unisexual, staminate in 3-branched catkins appearing
+about the time of leaf maturity; pistillate terminal on new growth.
+Fruit oblong to obovoid to obpyriform, 30 mm in diameter by 35 mm long,
+husk about 3 mm thick, tardily dehiscent, shell of nut thick, meat
+sweet.
+
+    [Illustration: Pignut Hickory/_Carya glabra_]
+
+
+Shagbark Hickory
+_Carya ovata_ (Mill.) K. Koch
+
+Bark smooth at first, then breaking into long, flat, irregular gray
+strips, to 5 mm thick, usually attached at the apex, free at the base.
+Branches stout, smooth, spreading to ascending. Twigs stout,
+orange-brown, leaf scars large. Buds (terminal), 10 to 20 mm long, 6 to
+8 mm in diameter, scales imbricate. Leaves alternate, deciduous,
+odd-pinnately compound with 5 to 7 leaflets, usually 5 to 18 cm wide and
+20 to 35 cm long; lateral leaflets ovate to ovate-lanceolate, terminal
+leaflet usually obovate, apices acute to acuminate, margins finely
+serrate, bases wedge-shaped, more or less yellow, pubescent below,
+gradually becoming glabrous with age. Flowers unisexual, appearing in
+spring with the developing leaves, staminate in 3-lobed catkins,
+pistillate on new growth. Fruits subglobose, 2.5 to 6 cm in diameter,
+husk 3 to 5 mm thick, shell of nut hard and moderately thin, meat sweet.
+
+    [Illustration: Shagbark Hickory/_Carya ovata_]
+
+
+Bitternut Hickory
+_Carya cordiformis_ (Wangenh.) K. Koch
+
+Bark brown to slate gray, smooth to lightly furrowed or with strongly
+interlaced ridges. Branches stiff, ascending, spreading. Twigs slender,
+glossy, often with yellow glands early in the season. Buds compressed,
+ovoid, 6 to 10 mm long, covered with yellow, valvate glandular scales.
+Leaves alternate, deciduous, odd-pinnately compound, 15 to 25 cm long
+with 7 to 9 leaflets, 7 to 15 cm long and 3 to 6 cm wide; lateral
+leaflets narrowly to broadly elliptic, terminal leaflet largest and
+usually obovate, apex acuminate, margin finely serrate, base
+wedge-shaped, with yellow glands on undersurfaces and on rachis. Flowers
+unisexual, staminate in 3-branched catkins appearing after leaves;
+pistillate terminal on new growth. Fruit ovate to subglobose, 2 to 3 cm
+in diameter, often slightly compressed, 4-winged on sutures from apex to
+middle of husk, husk thin, covered with yellow glandular scales, shell
+of nut thin, meat very bitter.
+
+    [Illustration: Bitternut Hickory/_Carya cordiformis_]
+
+
+Southern Red Oak
+_Quercus falcata_ Michx.
+
+    [Illustration: silhouette]
+
+Bark dark brown to grayish black, divided by shallow, irregular fissures
+into broad ridges. Branches stout, spreading to ascending. Twigs 2 to 5
+mm in diameter, dull reddish brown. Buds ovoid, angulate 8 to 13 mm
+long, apex acute. Leaves alternate, deciduous, simple, many remaining as
+dead foliage until spring, ovate to obovate with bell-shaped base, 10 to
+28 cm long, 7 to 30 cm wide; with 3 to 9 lobes and margins with deep
+rounded sinuses; when 3-lobed, central lobe strap-shaped and toothed
+near the apex and side lobes acute to acuminate, somewhat falcate;
+permanently pubescent below, white at first, turning rust. Flowers
+unisexual, staminate in tomentose catkins as leaves unfold; pistillate
+in leaf axils on twigs. Fruit an acorn, small, spherical to
+hemispherical; cup 12 to 15 mm wide, shallow saucer-shaped, enclosing
+about one-fourth to one-half of the nut; nut 8 to 12 mm long.
+
+    [Illustration: Southern Red Oak/_Quercus falcata_]
+
+
+Cherrybark Oak
+_Quercus falcata_ var. _pagodaefolia_ Ell.
+
+    [Illustration: silhouette]
+
+Bark dark gray to gray-black consisting of appressed scales in narrow
+flat ridges with shallow furrows. Branches stout, spreading to
+ascending. Twigs 2 to 4 mm in diameter, reddish, lightly fluted. Buds
+ovoid, 10 to 15 mm long, angled, scales pubescent with dark margins.
+Leaves alternate, tardily deciduous, persisting into December, simple,
+oval to oblong, 12 to 20 cm long, 7 to 8 cm wide; with 5 to 11 lobes,
+major lobes opposite each other, large rounded sinuses extending nearly
+to the midrib, margin entire with occasional bristle-tipped teeth near
+the apex of the lobes, dark green above, permanently pubescent below,
+sometimes thinly so, varying from white to rust color, especially on
+drying. Flowers as in _Q. falcata_. Fruit an acorn broader than tall;
+cups 12 to 15 mm wide; nut about 8 to 10 mm long, subglobose, flattened
+at base, rounded at apex.
+
+    [Illustration: Cherrybark Oak/_Quercus falcata_ var. _pagodaefolia_]
+
+
+Black Oak
+_Quercus velutina_ Lam.
+
+    [Illustration: silhouette]
+
+Bark brownish-black on older trees, with thick, broad scaly ridges and
+deep furrows; inner bark yellow-orange—the only American oak with this
+feature. Branches stout, spreading to ascending. Twigs about 5 mm in
+diameter, reddish brown to dark brown, lightly fluted. Buds ovoid, 10 to
+15 mm long, lateral buds sharply angled, scales ciliate, margin dark.
+Leaves alternate, deciduous, simple; membranous in seedlings and
+saplings to somewhat leathery in the middle to upper crown; lower leaves
+broadly elliptic to obovate, 15 to 30 cm long, 10 to 15 cm wide, entire
+to faintly lobed; middle-crown leaves 10 to 20 cm long, 10 to 15 cm
+wide, distinctly 5 to 9 lobed with broad rounded sinuses with apical
+bristles on each lobe; upper-crown leaves oblong to obovate, 8 to 20 cm
+long, 8 to 15 cm wide; dark shiny green above, yellow scurfy pubescence
+on young leaves of middle and upper crown, petioles 4 to 6 cm long,
+yellow to reddish. Flowers unisexual; staminate catkins 7 to 15 cm long;
+pistillate on short tomentose peduncles. Fruit an oval to obovoid acorn
+10 to 25 mm long; cup cup-shaped to conical enclosing about one-half of
+the nut.
+
+    [Illustration: Black Oak/_Quercus velutina_]
+
+
+Scarlet Oak
+_Quercus coccinea_ Muenchh.
+
+    [Illustration: silhouette]
+
+Bark dark grayish-black, divided into irregular fissures and scaly
+ridges. Branches stout, spreading to ascending. Twigs 3 to 4 mm in
+diameter, reddish, turning a dull red. Buds ovoid, acute, 5 to 7 mm
+long, covered with rounded, lightly pubescent scales. Leaves alternate,
+deciduous, simple; glabrous, except in axils of main veins on underside,
+oval to slightly obovate, 8 to 17 cm long, 5 to 13 cm wide, with 5 to 9
+deep lobes often terminated by secondary lobes with bristle tips,
+sinuses usually deep, round, and wider than lobes; both surfaces pale
+green, upper surface shiny, bright scarlet in autumn, petioles about 4
+cm long. Flowers unisexual; staminate in catkins with developing leaves;
+pistillate on pubescent peduncles. Fruit an acorn; cup 15 to 30 mm wide,
+covered with brown scales enclosing about one-third to one-half of the
+nut; nut ovoid, 10 to 20 mm long, occasionally with ring grooves near
+apical point at maturity.
+
+    [Illustration: Scarlet Oak/_Quercus coccinea_]
+
+
+Northern Red Oak
+_Quercus rubra_ L.
+
+    [Illustration: silhouette]
+
+Bark dark brown, thick, divided by shallow furrows into long,
+flat-topped scaly ridges. Branches stout, spreading and ascending to
+form a round-topped crown. Twigs slender, reddish-brown to dark red.
+Buds ovate, acute, light brown, 8 to 10 mm long. Leaves alternate,
+deciduous, simple, oblong to oval to obovate, 12 to 22 cm long, 10 to 15
+cm wide; 7 to 11 short lobes, lobes 3-toothed, bristle-tipped; upper
+surface dull green. Flowers unisexual; staminate in slender catkins
+appearing with the developing leaves, pistillate inconspicuous on last
+year’s wood. Fruit an acorn, 15 to 30 mm long; cup saucer-shaped,
+enclosing about one-fourth of the nut.
+
+    [Illustration: Northern Red Oak/_Quercus rubra_]
+
+
+Shumard Oak
+_Quercus shumardii_ Buckl.
+
+    [Illustration: silhouette]
+
+Bark dark gray to blackish, relatively smooth at first, then breaking
+into scaly ridges. Branches spreading to ascending. Twigs about 5 mm in
+diameter, olive green then turning dark reddish. Buds clustered at apex
+5 to 7 mm long, sharp pointed, strongly angled. Leaves alternate,
+deciduous, simple; oval to slightly obovate, 10 to 20 cm long, 6 to 15
+cm wide; with 7 to 10 bristle-tipped lobes, lobes on upper crown leaves
+narrower to slightly wider than sinuses, lobes on lower crown leaves
+wider than sinuses; dark green above, paler below, glabrous except for
+vein axils on lower surface; petiole about 5 cm long. Flowers unisexual;
+staminate in yellow catkins appearing with the unfolding leaves;
+pistillate on pubescent peduncles. Fruit an acorn; cup 20 to 31 mm
+across, enclosing about one-fourth of the nut; nut about 25 mm long, 15
+mm in diameter.
+
+    [Illustration: Shumard Oak/_Quercus shumardii_]
+
+
+Blackjack Oak
+_Quercus marilandica_ Muenchh.
+
+    [Illustration: silhouette]
+
+Bark black, very rough, consisting of thick blocky plates. Branches
+stout, spreading to drooping. Twigs stout, about 5 mm in diameter. Buds
+with rusty brown hairs, about 4 to 8 mm long. Leaves alternate, tardily
+deciduous, simple, 7 to 25 cm long, broadly obovate at apex (bear-paw
+shape) tapering to a narrow base, margin entire or with 3 bristle-tipped
+apical lobes, upper surface dark green, rusty pubescent on
+undersurfaces. Flowers unisexual; staminate in catkins, appearing with
+the leaves; pistillate solitary or paired. Fruit an acorn, cup enclosing
+one-half to two-thirds of the nut; nut nearly ovoid, 20 to 25 mm long by
+15 to 20 mm in diameter.
+
+    [Illustration: Blackjack Oak/_Quercus marilandica_]
+
+
+Laurel Oak
+_Quercus laurifolia_ Michx.
+
+    [Illustration: silhouette]
+
+Bark nearly black, divided into broad flat ridges by deep fissures.
+Twigs 2 to 3 mm in diameter, usually reddish brown. Buds ovoid, reddish
+brown, 2 to 4 mm long. Leaves alternate, semi-deciduous, simple, a few
+shed in fall, a few persisting until spring; elliptic to spatulate, 7 to
+15 cm long, 2 to 4 cm wide; apex acute or obtuse, margin entire, base
+cuneate; shiny green above, paler below; petioles 3 to 5 mm long, midrib
+conspicuous on underside. Flowers unisexual; staminate in catkins as
+leaves unfold; pistillate on twigs at leaf scars. Fruit an acorn,
+sessile to subsessile, cup 15 to 20 mm wide, enclosing about one-fourth
+of nut; nut hemispheric, rounded at apex and flattened at bottom, 15 mm
+long.
+
+    [Illustration: Laurel Oak/_Quercus laurifolia_]
+
+
+Water Oak
+_Quercus nigra_ L.
+
+    [Illustration: silhouette]
+
+Bark smooth, grayish black, becoming scaly with age. Branches spreading
+to ascending, forming a round-topped crown in the open. Twigs 3 to 5 mm
+in diameter, gray. Buds ovoid, acute, reddish brown, 3 to 7 mm long.
+Leaves alternate, deciduous, simple; variable in shape and size, obovate
+to spatulate, 5 to 10 cm long, 2 to 5 cm wide; margin entire, wavy to
+distinctly lobed in juvenile specimens; sessile or with petiole to 1 cm
+long. Flowers unisexual; staminate catkins 5 to 8 cm long, pistillate
+catkins short-peduncled. Fruit an acorn about 15 mm wide, 10 mm high;
+cup thin, enclosing about one-fifth to one-third of the nut.
+
+    [Illustration: Water Oak/_Quercus nigra_]
+
+
+White Oak
+_Quercus alba_ L.
+
+    [Illustration: silhouette]
+
+Bark light gray, separated by shallow furrows into flat ridges with
+loose appressed scales. Branches stout, drooping, spreading to
+ascending. Twigs 2 to 3 mm in diameter, reddish. Buds globose to ovoid,
+angulate, apex acute to obtuse, 3 to 5 mm. Leaves alternate, deciduous,
+simple, oblong to obovate, 7 to 20 cm long, 4 to 10 cm wide, with 7 to
+11 uneven, rounded lobes and deep sinuses. Flowers unisexual, in
+catkins, preceding leaf expansion. Fruit an acorn, 15 to 35 mm long, 20
+to 25 mm in diameter, cup 1.5 to 3 cm wide, usually cup-shaped,
+conspicuous with thickened scales, enclosing one-fourth to one-third of
+the nut.
+
+    [Illustration: White Oak/_Quercus alba_]
+
+
+Post Oak
+_Quercus stellata_ Wangenh.
+
+    [Illustration: silhouette]
+
+Bark medium to dark gray, with deep furrows, scaly ridges. Branches
+stout, irregular, drooping to horizontal and ascending. Twigs 3 to 5 mm
+in diameter, gray to brownish. Buds broadly ovate, blunt to acute, 5 mm
+long, clustered at apex of twig. Leaves alternate, deciduous, simple;
+obovate, to 18 cm long, 5 to 10 cm wide; divided into 5 to 7 sinuate
+rounded lobes, the two lower lobes smaller than the upper pair, upper
+lobes and the terminal lobe resembling a cross, dark, shiny green above,
+grayish to brownish below, leathery. Flowers unisexual; staminate in
+catkins appearing with the unfolding leaves; pistillate on last year’s
+wood. Fruit an acorn, 13 to 25 mm long, 6 to 20 mm in diameter; cup
+hemispherical, enclosing about one-half of the nut, cup scales
+rusty-pubescent; nut ovate to ovate-oblong, about 15 mm long.
+
+    [Illustration: Post Oak/_Quercus stellata_]
+
+
+Chestnut Oak
+_Quercus prinus_ L.
+
+    [Illustration: silhouette]
+
+Bark dark reddish brown to nearly black, deeply furrowed with narrow
+ridges. Branches stout, spreading to ascending. Twigs stout, angulate,
+smooth, purplish-green when new, turning orange or reddish-brown. Buds
+ovate-conical, somewhat angulate, 8 to 12 mm long, silky hairy. Leaves
+alternate, deciduous, simple; elliptic to obovate, 10 to 30 cm long, 3
+to 8 cm wide; somewhat leathery, margin crenate with a vein ending in
+each rounded tooth, smooth green above, stellate-pubescent below.
+Flowers unisexual; staminate in catkins 5 to 10 cm long; pistillate in
+short spikes on stout peduncles. Fruit an acorn 25 to 35 mm long, 15 to
+25 mm in diameter; cup vase-shaped, thin, rough with thickened scales,
+covering one-third to one-half of the nut.
+
+    [Illustration: Chestnut Oak/_Quercus prinus_]
+
+
+Winged Elm
+_Ulmus alata_ Michx.
+
+    [Illustration: silhouette]
+
+Bark dark, smooth at first becoming deeply furrowed on larger trees.
+Branches slender, ascending to spreading, corky ridges or wings on
+branches 3 years or older. Twigs about 2 mm in diameter, light green
+tinged with red. Buds sharp-pointed, divergent from twig 3 to 4 mm long.
+Leaves alternate, deciduous, simple; broadly ovate to elliptic, 4 to 8
+cm long, 2 to 4 cm wide; apex acute to short-acuminate, margin doubly to
+triply serrate, base rounded; dull green above, lighter green below with
+prominent pinnate veins. Flowers perfect, abundant, tiny, opening just
+before leaves unfold, several in a cluster at a leaf scar, blooming late
+January into February. Fruit a samara, flat and elliptic, 6 to 8 mm
+long, margin ciliate.
+
+    [Illustration: Winged Elm/_Ulmus alata_]
+
+
+American Elm
+_Ulmus americana_ L.
+
+    [Illustration: silhouette]
+
+Bark gray to blackish, thick, divided into flat ridges by deep furrows.
+Branches ascending, arching, and spreading; open-grown trees vase-shaped
+in outline. Twigs 2 to 3 mm in diameter with 5 to 7 leaves which
+increase in size from basal to apical leaf, red-brown. Buds (leaf)
+brown, small, scaly, acute. Leaves alternate, deciduous, simple; broadly
+ovate, 5 to 15 cm long, 4 to 6 cm wide; apex acuminate, margin usually
+doubly serrate, base oblique on short petiole; upper surface smooth,
+marked with sunken veins pinnately arranged; veins more prominent on
+underside. Flowers perfect, buds greatly enlarge before opening; with
+very small flowers abundant in clusters; opening before the leaves
+expand, blooming from late December into February. Fruit a samara, oval
+to circular with wing surrounding the seed, about 10 mm in diameter,
+margin ciliate.
+
+    [Illustration: American Elm/_Ulmus americana_]
+
+
+Sugarberry; hackberry
+_Celtis laevigata_ Willd.
+
+    [Illustration: silhouette]
+
+Bark light gray to almost white, thin, smooth, usually more or less
+studded with irregular corky outgrowths. Branches spreading, slender.
+Twigs about 3 mm in diameter, reddish-brown. Buds about 3 mm long,
+alternate. Leaves alternate, deciduous, simple; narrowly elliptic to
+broadly ovate, 6 to 10 cm long, 2 to 4 cm wide; apex acute, margin
+usually entire, base broadly rounded or oblique. Flowers unisexual or
+perfect, tiny, inconspicuous, many staminate and few pistillate
+appearing on the new growth as the leaves unfold. Fruit a drupe with a
+bony reticulated nutlet, about 5 mm in diameter, orange-red on a pedicel
+often shorter than the petiole of the subtending leaf.
+
+    [Illustration: Sugarberry; hackberry/_Celtis laevigata_]
+
+
+Yellow-poplar
+_Liriodendron tulipifera_ L.
+
+    [Illustration: silhouette]
+
+Bark thin and dark green on young trees, becoming ash-gray and
+conspicuously furrowed and ridged with age. Branches spreading to
+ascending, often drooping on large open-grown trees. Twigs smooth, about
+5 mm in diameter, encircled by stipule scars, red-brown. Buds (terminal)
+grayish green, turning red in winter, flat about 10 to 16 mm long,
+scales valvate. Leaves alternate, deciduous, simple; dark green above,
+turning yellow in fall; 6 to 20 cm long and as wide as long; petioles 5
+to 20 cm long, often longer than the blades on low branches. Flowers
+perfect, tulip-shaped, about 4 to 6 cm long, greenish-yellow with orange
+to reddish markings at base of petals, color intensifies with age. Fruit
+an aggregate cone, 5 to 8 cm long, gradually shattering into one-seeded,
+winged samaras.
+
+    [Illustration: Yellow-poplar/_Liriodendron tulipifera_]
+
+
+Sweetbay
+_Magnolia virginiana_ L.
+
+    [Illustration: silhouette]
+
+Bark dark gray, usually smooth, thin, in shady areas often encrusted
+with mosses, liverworts, and lichens. Branches stout, spreading to
+ascending. Twigs about 5 to 7 mm in diameter, encircled by stipule
+scars, green. Buds (terminal), silvery gray, pubescent, 15 mm long;
+smaller lateral buds often subtended by persistent petiole base. Leaves
+alternate, evergreen in South, deciduous in northern part of range,
+simple; elliptic to oblong, 10 to 15 cm long, 4 to 6 cm wide; margin
+entire, dark green above, silvery pubescent below. Flowers perfect,
+white, sweet-scented, 5 to 8 cm in diameter, appearing May to September.
+Fruit an aggregate of follicles which open and shed red seeds, irregular
+in shape, ovoid to ellipsoid, smooth, about 5 cm long.
+
+    [Illustration: Sweetbay/_Magnolia virginiana_]
+
+
+Sweetgum; redgum
+_Liquidambar styraciflua_ L.
+
+    [Illustration: silhouette]
+
+Bark dark gray, divided by deep furrows into narrow, rounded ridges.
+Branches stout, often with corky wings or outgrowths. Twigs about 4 to 6
+mm in diameter, gray-brown. Buds (terminal) broadly egg-shaped, about 10
+to 15 mm long, scales overlapping, slightly sticky. Leaves alternate,
+deciduous, simple; palmately 5- to 7-lobed; 8 to 20 cm wide, 6 to 15 cm
+long, often longer than broad; margin finely serrate; petioles 4 to 13
+cm long. Flowers unisexual (plants monoecious), appearing as the leaves
+unfold; staminate clustered in terminal racemes; pistillate in small
+drooping spherical heads. Fruit in stalked spherical heads covered with
+small spine-like projections; seed cavity at base of each spine.
+
+    [Illustration: Sweetgum; redgum/_Liquidambar styraciflua_]
+
+
+Red Maple
+_Acer rubrum_ L.
+
+    [Illustration: silhouette]
+
+Bark gray, divided into scaly ridges by narrow furrows. Branches
+slender, spreading and ascending. Twigs about 3 mm in diameter, reddish.
+Buds spherical, reddish, clustered at apex of twig, scales with white
+ciliate margins. Leaves opposite, deciduous, simple; ovate to almost
+circular, 4 to 9 cm long, 2.5 to 7 cm wide, usually longer than broad;
+3-lobed near the apex, margin finely serrate; dark green above, glaucous
+and lightly pubescent below, pubescence usually shed. Flowers typically
+polygamous, occasionally with perfect flowers, small, forming dense
+clusters from separate buds before leaf expansion, conspicuous because
+of the red to orange coloration. Fruit twin samaras 10 to 20 mm long.
+
+Var. _drummondii_: Leaves larger than typical red maple, usually broader
+than long; 3 to 5 lobes or occasionally scarcely lobed, margins coarsely
+toothed, conspicuously glaucous below, usually permanently tomentose.
+Fruit samaras 4 to 5 cm long.
+
+    [Illustration: Red Maple/_Acer rubrum_]
+
+
+Black Tupelo; blackgum
+_Nyssa sylvatica_ Marsh.
+
+    [Illustration: silhouette]
+
+Bark black, marked with furrows and cross-cracks that divide the ridges
+into squarish plates. Branches slender, spreading to horizontal, often
+drooping in open-grown specimens. Twigs 2 to 3 mm in diameter, gray to
+reddish. Buds obtuse, of overlapping yellow-brown scales, terminal buds
+6 mm long. Leaves alternate, early deciduous, simple; marked with
+irregular black spots and purple coloration from midsummer on; elliptic
+to broadly oval to obovate, 5 to 15 cm long, 3 to 8 cm wide; apex acute
+to broadly rounded, margin entire, base wedge-shaped. Flowers unisexual,
+less than 4 mm in diameter, appearing in April before leaf expansion.
+Fruit a black drupe 8 to 10 mm long, 1 to 3 on pedicels 3 to 5 cm long,
+stone faintly ribbed.
+
+    [Illustration: Black Tupelo; blackgum/_Nyssa sylvatica_]
+
+
+White Ash
+_Fraxinus americana_ L.
+
+    [Illustration: silhouette]
+
+Bark gray to brownish, divided into narrow, deep furrows and ridges of
+equal width. Branches stout, wide-spreading. Twigs 3 to 6 mm in
+diameter. Buds (terminal) broadly ovoid consisting of 4 appressed
+scales, dark brown to black; lateral buds spherical, tightly appressed
+to a crescent-shaped leaf scar. Leaves opposite, deciduous,
+odd-pinnately compound; 20 to 30 cm long, white below when fresh;
+leaflets 7 to 9, petiolulate, oval to ovate, 5 to 15 cm long, 3 to 5 cm
+wide, apex acuminate, margin essentially entire, base broadly rounded,
+pinnate veins conspicuous on underside. Flowers unisexual (plants
+dioecious); pistillate inconspicuous about 1 mm in diameter, arranged in
+dense paniculate clusters; staminate conspicuous in mass. Fruit a
+samara, 25 to 60 mm long, wing terminal on the thickened seed.
+
+    [Illustration: White Ash/_Fraxinus americana_]
+
+
+Green Ash
+_Fraxinus pennsylvanica_ Marsh.
+
+    [Illustration: silhouette]
+
+Bark brownish, smooth when young, then breaking into narrow ridges with
+shallow narrow furrows. Branches drooping to spreading and ascending.
+Twigs stout, 4 to 6 mm in diameter, olive green. Buds terminal black;
+smaller lateral buds tightly appressed to the generally straight upper
+edge of the leaf scar. Leaves opposite, deciduous, odd-pinnately
+compound with 5 to 7, occasionally 9, leaflets; leaflets narrowly to
+broadly elliptical, apex acuminate, margin entire to finely serrate,
+base wedge-shaped, hairy below along the veins. Flowers unisexual
+(plants dioecious); pistillate inconspicuous in open panicles; staminate
+in compact conspicuous clusters. Fruit a samara 25 to 50 mm long, seed
+end conspicuously slender and extending about half the length of the
+samara, wing decurrent on seed end.
+
+    [Illustration: Green Ash/_Fraxinus pennsylvanica_]
+
+
+
+
+                          Selected References
+
+
+  Bailey, L. H.
+    1949. Manual of cultivated plants. Rev. ed. 1116 p. Macmillan Co.,
+              New York.
+
+  Brown, C. A.
+    1945. Louisiana trees and shrubs. Bull. 1, 262 p. Louisiana Forestry
+              Commission, Baton Rouge.
+
+  Coker, W. C., and H. R. Totten.
+    1945. Trees of the southeastern states. 3rd ed. 419 p. Univ. of N.
+              C. Press, Chapel Hill.
+
+  Collingwood, G. H., and W. D. Brush.
+    1974. Knowing your trees. Rev. by D. Butcher. 374 p. American
+              Forestry Association, Washington, D.C.
+
+  Correll, D. C., and M. C. Johnston.
+    1970. Manual of the vascular plants of Texas. Contributions from the
+              Texas Research Foundation, Vol. 6. 1881 p. Texas Research
+              Foundation, Renner, Texas.
+
+  Fernald, M. L.
+    1950. Gray’s Manual of Botany. 8th ed. 1632 p. American Book Co.,
+              New York.
+
+  Harlow, W. M.
+    1959. Fruit key and twig key to trees and shrubs. 106 p. Dover
+              Publications, New York.
+
+  Harlow, W. M., and E. S. Harrar.
+    1941. Textbook of dendrology covering the important forest trees of
+              the United States and Canada. 2nd ed. 561 p. McGraw-Hill
+              Book Co., New York and London.
+
+  Harrar, E. S., and J. G. Harrar.
+    1946. Guide to southern trees. 712 p. Whittlesy House, McGraw-Hill
+              Book Co., New York.
+
+  Kurz, H., and R. K. Godfrey.
+    1962. Trees of northern Florida. 311 p. Univ. of Fla. Press,
+              Gainesville.
+
+  Little, E. L.
+    1953. Check list of native and naturalized trees of the United
+              States (including Alaska). U.S. Dep. Agric., Agric. Handb.
+              No. 41. 472 p.
+
+  Muller, C. H.
+    1951. The oaks of Texas. Contributions from The Texas Research
+              Foundation 1(3):21-311.
+
+  Preston, R. J., Jr.
+    1961. North American trees. 2nd ed. 395 p. Iowa State Univ. Press,
+              Ames (Reprinted 1970 by M.I.T. Press, Cambridge, Mass.).
+
+  Sargent, C. S.
+    1922. Manual of the trees of North America (exclusive of Mexico).
+              2nd ed. 910 p. Houghton Mifflin Co., Boston and New York.
+              (Reprinted by Dover Publications, New York).
+
+  Small, J. K.
+    1933. Manual of southeastern flora. 1554 p. Published by author in
+              New York.
+
+  Staff of Forest Resources Research Work Unit
+    1976. Hardwood distribution on pine sites in the South. U. S. Dep.
+              Agric. For. Serv. Resour. Bull. SO-59. 27 p. South. For.
+              Exp. Stn., New Orleans, La.
+
+  Vines, R. A.
+    1960. Trees, shrubs, and woody vines of the southwest. 1104 p. Univ.
+              of Texas Press, Austin, Texas.
+
+  Wharton, M. E., and R. W. Barbour
+    1973. Trees and shrubs of Kentucky. 582 p. Univ. Ky. Press,
+              Lexington.
+
+
+
+
+                                GLOSSARY
+
+
+  Acuminate. Gradually tapering to a pointed apex.
+  Acute. Having the shape of an acute angle.
+  Aggregate. A cluster of ripened ovaries traceable to separate pistils
+              of the same flower and inserted on a common receptacle.
+  Anther. The pollen-bearing portion of the stamen.
+  Anthesis. Time of flowering.
+  Apetalous. Without petals.
+  Apex. The tip of leaf, twig, or other plant part.
+  Apical. Pertaining to apex.
+  Ascending. Growing obliquely or indirectly upward from point of
+              attachment.
+  Axil. Upper angle between a leaf or other plant part and the stem to
+              which it is attached.
+  Bisexual. Having both sex organs on the same plant; a hermaphrodite.
+  Blade. The flat expanded portion of a leaf or parts of a compound
+              leaf.
+  Catkin. A flexible, usually pendulous, scaly spike bearing unisexual
+              flowers.
+  Ciliate. Having a margin fringed with hair.
+  Compound Leaf. A leaf with two or more separate leaflets.
+  Cordate. Heart-shaped with the point at the terminal end.
+  Crenate. Having a margin with rounded to blunt teeth.
+  Cuneate. Wedge-shaped.
+  Deciduous. Not persistent; said of leaves falling in autumn or of
+              floral parts falling after anthesis.
+  Dehiscent. Opening by bursting or splitting.
+  Dentate. A margin with sharp teeth pointing outward.
+  Dimorphous. Occurring in two forms.
+  Dioecious. Unisexual, with staminate and pistillate flowers on
+              separate plants.
+  Drupe. A simple one-seeded fleshy fruit, the outer wall fleshy, the
+              inner wall bony.
+  Entire. Margins without teeth or lobes.
+  Evergreen. Having green leaves throughout the year.
+  Falcate. Sickle- or scythe-shaped.
+  Follicle. A dry, single-carpel fruit, opening along one side for seed
+              dispersal.
+  Fluted. Regularly marked by alternating ridges and grooves.
+  Fruit. The seed-bearing product of a plant.
+  Glabrous. Smooth, devoid of hair or surface glands.
+  Glandular. Furnished with glands, or glandlike.
+  Glaucous. Covered with a white waxy or powdery bloom.
+  Globose. Spherical, globular.
+  Husk. Fleshy covering of nut in hickories.
+  Imbricate. Overlapping.
+  Leaflet. A single division of a compound leaf.
+  Membranous. Thin, more or less flexible, translucent.
+  Midrib. The central rib or central vein of a leaf or similar
+              structure.
+  Monoecious. Having unisexual flowers, with both sexes borne on the
+              same plant.
+  Nut. A hard-shelled, indehiscent, usually one-celled, one-seeded
+              fruit.
+  Oblique. Slanted; of unequal-sided or non-symmetrical leaves or leaf
+              bases.
+  Obovate. Inverted ovate.
+  Obpyriform. Inverted pear-shaped.
+  Obtuse. Blunt.
+  Odd Pinnate. Pinnately compound with a terminal leaflet.
+  Ovate. Having the lengthwise outline of an egg, broadest at the base.
+  Ovoid. Egg-shaped in 3-dimensions.
+  Ovule. An embryonic seed in the ovary of a flower.
+  Palmate. With veins or lobes radiating from a common center.
+  Panicle. A compound or branched raceme.
+  Paniculate. Borne in a panicle.
+  Parted. Divided by sinuses which extend nearly to the midrib.
+  Perfect. Having stamens and pistils in the same flower.
+  Persistent. Remaining attached.
+  Petiolate. Having petioles, not sessile.
+  Petiole. The stalk of a leaf.
+  Petiolulate. Having petiolules.
+  Petiolule. The stalk of a leaflet in a compound leaf.
+  Pinnate. Descriptive of compound leaves with the leaflets arranged on
+              opposite sides along a common rachis. Also used to
+              describe leaf venation.
+  Pistil. The seed-bearing organ of the flower.
+  Pistillate. Provided with pistils; usually descriptive of unisexual
+              flowers.
+  Polygamous. Bearing perfect and unisexual flowers on the same plant.
+  Polymorphic. Having two or more forms.
+  Pubescent. Covered with fine, soft, short hairs.
+  Pyriform. Pear-shaped.
+  Raceme. An inflorescence consisting of a central rachis bearing a
+              number of flowers with stalks of nearly equal length.
+  Rachis. The axis of a compound leaf or inflorescence.
+  Receptacle. The portion of the floral axis upon which the flowers are
+              borne.
+  Reticulate. Forming a network.
+  Rhombic. Somewhat diamond-shaped.
+  Rib. A prominent vein.
+  Samara. An indehiscent winged fruit.
+  Scurfy. Covered with small scales.
+  Seed. A ripened ovule.
+  Serrate. With sharp teeth pointing forward.
+  Sessile. Without a stalk of any kind.
+  Simple. Of one piece; not compound.
+  Sinuate. Deeply or strongly undulate or wavy.
+  Sinus. A recess, cleft, or gap between two lobes.
+  Spatulate. Spatula-shaped.
+  Spike. An inflorescence consisting of a central rachis bearing a
+              number of stalkless flowers.
+  Stamen. Pollen-bearing organ of the flower.
+  Staminate. Bearing stamens.
+  Stellate. Star-shaped.
+  Stipule. A leafy appendage attached to the twig at the base of a
+              petiole; usually in pairs, one on each side, often
+              shedding early.
+  Striate. With fine grooves, ridges, or lines of color.
+  Suture. Line of dehiscence.
+  Subglobose. Globe shaped, but slightly flattened.
+  Subsessile. Almost stalkless.
+  Tomentose. Coated with short, matted woolly hair.
+  Truncate. Having a blunt tip or end, appearing as if abruptly cut off
+              transversely.
+  Undulate. Wavy.
+  Unisexual. Having stamens and pistils in separate flowers.
+  Valvate. Opening by valves as in a capsule or some leaf buds; meeting
+              at the edges without overlapping.
+  Whorl. Circular arrangement of appendages at a node.
+  Woolly. Clothed with long, matted hairs.
+
+
+
+
+                               Footnotes
+
+
+[1]For the purposes of this paper, pine sites are defined as forested
+    uplands, excluding those growing cove-type hardwoods, that are
+    supporting southern pine or show evidence, such as stumps, of its
+    former occurrence.
+
+
+
+
+                                 Index
+
+
+                                   A
+  _Acer rubrum_, 5, 54
+      var. _drummondii_, 5, 54
+      var. _tridens_, 5
+  American elm, 4, 44
+  Ash, green, 5, 60
+      white, 5, 58
+
+
+                                   B
+  Bitternut hickory, 2, 16
+  Blackgum, 5, 56
+  Blackjack oak, 4, 30
+  Black oak, 3, 22
+  Black tupelo, 5, 56
+
+
+                                   C
+  _Carya cordiformis_, 2, 16
+      _glabra_, 2, 12
+      _ovata_, 2, 14
+      _tomentosa_, 2, 10
+  _Celtis laevigata_, 4, 46
+      _occidentalis_, 4
+  Cherrybark oak, 3, 20
+  Chestnut oak, 4, 40
+
+
+                                   E
+  Elm, American, 4, 44
+      winged, 4, 42
+
+
+                                   F
+  _Fraxinus americana_, 5, 58
+      _pennsylvanica_, 5, 60
+
+
+                                   G
+  Green ash, 5, 60
+
+
+                                   H
+  Hackberry, 4, 46
+  Hickory, bitternut, 2, 16
+      mockernut, 2, 10
+      pignut, 2, 12
+      shagbark, 2, 14
+
+
+                                   L
+  Laurel oak, 4, 32
+  _Liriodendron tulipifera_, 4, 48
+  _Liquidambar styraciflua_, 5, 52
+
+
+                                   M
+  _Magnolia virginiana_, 4, 50
+  Maple, red, 5, 54
+  Mockernut hickory, 2, 10
+
+
+                                   N
+  Northern red oak, 3, 26
+  _Nyssa sylvatica_, 5, 56
+
+
+                                   O
+  Oak, black, 3, 22
+      blackjack, 4, 30
+      cherrybark, 3, 20
+      chestnut, 4, 40
+      laurel, 4, 32
+      northern red, 3, 26
+      post, 4, 38
+      scarlet, 3, 24
+      Shumard, 3, 28
+      southern red, 3, 18
+      swamp chestnut, 4
+      water, 4, 34
+      white, 4, 36
+
+
+                                   P
+  Pignut hickory, 2, 12
+  Post oak, 4, 38
+
+
+                                   Q
+  _Quercus alba_, 4, 36
+      _coccinea_, 3, 24
+      _falcata_, 3, 18
+      _falcata_ var. _pagodaefolia_, 3, 20
+      _hemisphaerica_, 4
+      _laurifolia_, 4, 32
+      _marilandica_, 4, 30
+      _michauxii_, 4
+      _nigra_, 4, 34
+      _prinus_, 4, 40
+      _rubra_, 3, 26
+      _shumardii_, 3, 28
+      _stellata_, 4, 38
+      _velutina_, 3, 22
+
+
+                                   R
+  Redgum, 5, 52
+  Red maple, 5, 54
+
+
+                                   S
+  Scarlet oak, 3, 24
+  Shagbark hickory, 2, 14
+  Shumard oak, 3, 28
+  Southern red oak, 3, 18
+  Sugarberry, 4, 46
+  Swamp chestnut oak, 4
+  Sweetbay, 5, 50
+  Sweetgum, 5, 52
+
+
+                                   T
+  Tupelo, black, 5, 56
+
+
+                                   U
+  _Ulmus alata_, 4, 42
+      _americana_, 4, 44
+
+
+                                   W
+  Water oak, 4, 34
+  White ash, 5, 58
+  White oak, 4, 36
+  Winged elm, 4, 42
+
+
+                                   Y
+  Yellow-poplar, 4, 48
+
+
+  Brown, C. A. and H. E. Grelen.
+    1977. Identifying hardwoods growing on pine sites. USDA For. Serv.
+              Gen. Tech. Rep. SO-15, 69 p. South. For. Exp. Stn., New
+              Orleans, La.
+
+This publication illustrates and describes 26 hardwood species or
+varieties, including 16 oaks and hickories, with photographs of leaves,
+bark, buds, flowers, and fruits. Line drawings feature the winter
+silhouette of each species and a key is included to assist in
+identification.
+
+
+             ★U.S. GOVERNMENT PRINTING OFFICE 1978—772-231
+
+
+                    U. S. DEPARTMENT OF AGRICULTURE
+                             FOREST SERVICE
+                   SOUTHERN FOREST EXPERIMENT STATION
+            T-10210 POSTAL SERVICE BUILDING. 701 LOYOLA AVE.
+                      NEW ORLEANS, LOUISIANA 70113
+
+
+                           OFFICIAL BUSINESS
+                     PENALTY FOR PRIVATE USE, $300
+
+                         POSTAGE AND FEES PAID
+                          U. S. DEPARTMENT OF
+                              AGRICULTURE
+                                AGR-101
+
+                     AN EQUAL OPPORTUNITY EMPLOYER
+
+                              THIRD CLASS
+
+
+
+
+                          Transcriber’s Notes
+
+
+—Retained publication information from the printed edition: this eBook
+  is public-domain in the country of publication.
+
+—In the text versions only, text in italics is delimited by
+  _underscores_.
+
+—Created a Table of Contents based on the chapter headings.
+
+
+
+*** END OF THE PROJECT GUTENBERG EBOOK IDENTIFYING HARDWOODS GROWING ON
+PINE SITES ***
+
+Updated editions will replace the previous one--the old editions will
+be renamed.
+
+Creating the works from print editions not protected by U.S. copyright
+law means that no one owns a United States copyright in these works,
+so the Foundation (and you!) can copy and distribute it in the
+United States without permission and without paying copyright
+royalties. Special rules, set forth in the General Terms of Use part
+of this license, apply to copying and distributing Project
+Gutenberg-tm electronic works to protect the PROJECT GUTENBERG-tm
+concept and trademark. Project Gutenberg is a registered trademark,
+and may not be used if you charge for an eBook, except by following
+the terms of the trademark license, including paying royalties for use
+of the Project Gutenberg trademark. If you do not charge anything for
+copies of this eBook, complying with the trademark license is very
+easy. You may use this eBook for nearly any purpose such as creation
+of derivative works, reports, performances and research. Project
+Gutenberg eBooks may be modified and printed and given away--you may
+do practically ANYTHING in the United States with eBooks not protected
+by U.S. copyright law. Redistribution is subject to the trademark
+license, especially commercial redistribution.
+
+START: FULL LICENSE
+
+THE FULL PROJECT GUTENBERG LICENSE
+PLEASE READ THIS BEFORE YOU DISTRIBUTE OR USE THIS WORK
+
+To protect the Project Gutenberg-tm mission of promoting the free
+distribution of electronic works, by using or distributing this work
+(or any other work associated in any way with the phrase "Project
+Gutenberg"), you agree to comply with all the terms of the Full
+Project Gutenberg-tm License available with this file or online at
+www.gutenberg.org/license.
+
+Section 1. General Terms of Use and Redistributing Project
+Gutenberg-tm electronic works
+
+1.A. By reading or using any part of this Project Gutenberg-tm
+electronic work, you indicate that you have read, understand, agree to
+and accept all the terms of this license and intellectual property
+(trademark/copyright) agreement. If you do not agree to abide by all
+the terms of this agreement, you must cease using and return or
+destroy all copies of Project Gutenberg-tm electronic works in your
+possession. If you paid a fee for obtaining a copy of or access to a
+Project Gutenberg-tm electronic work and you do not agree to be bound
+by the terms of this agreement, you may obtain a refund from the
+person or entity to whom you paid the fee as set forth in paragraph
+1.E.8.
+
+1.B. "Project Gutenberg" is a registered trademark. It may only be
+used on or associated in any way with an electronic work by people who
+agree to be bound by the terms of this agreement. There are a few
+things that you can do with most Project Gutenberg-tm electronic works
+even without complying with the full terms of this agreement. See
+paragraph 1.C below. There are a lot of things you can do with Project
+Gutenberg-tm electronic works if you follow the terms of this
+agreement and help preserve free future access to Project Gutenberg-tm
+electronic works. See paragraph 1.E below.
+
+1.C. The Project Gutenberg Literary Archive Foundation ("the
+Foundation" or PGLAF), owns a compilation copyright in the collection
+of Project Gutenberg-tm electronic works. Nearly all the individual
+works in the collection are in the public domain in the United
+States. If an individual work is unprotected by copyright law in the
+United States and you are located in the United States, we do not
+claim a right to prevent you from copying, distributing, performing,
+displaying or creating derivative works based on the work as long as
+all references to Project Gutenberg are removed. Of course, we hope
+that you will support the Project Gutenberg-tm mission of promoting
+free access to electronic works by freely sharing Project Gutenberg-tm
+works in compliance with the terms of this agreement for keeping the
+Project Gutenberg-tm name associated with the work. You can easily
+comply with the terms of this agreement by keeping this work in the
+same format with its attached full Project Gutenberg-tm License when
+you share it without charge with others.
+
+1.D. The copyright laws of the place where you are located also govern
+what you can do with this work. Copyright laws in most countries are
+in a constant state of change. If you are outside the United States,
+check the laws of your country in addition to the terms of this
+agreement before downloading, copying, displaying, performing,
+distributing or creating derivative works based on this work or any
+other Project Gutenberg-tm work. The Foundation makes no
+representations concerning the copyright status of any work in any
+country other than the United States.
+
+1.E. Unless you have removed all references to Project Gutenberg:
+
+1.E.1. The following sentence, with active links to, or other
+immediate access to, the full Project Gutenberg-tm License must appear
+prominently whenever any copy of a Project Gutenberg-tm work (any work
+on which the phrase "Project Gutenberg" appears, or with which the
+phrase "Project Gutenberg" is associated) is accessed, displayed,
+performed, viewed, copied or distributed:
+
+  This eBook is for the use of anyone anywhere in the United States and
+  most other parts of the world at no cost and with almost no
+  restrictions whatsoever. You may copy it, give it away or re-use it
+  under the terms of the Project Gutenberg License included with this
+  eBook or online at www.gutenberg.org. If you are not located in the
+  United States, you will have to check the laws of the country where
+  you are located before using this eBook.
+
+1.E.2. If an individual Project Gutenberg-tm electronic work is
+derived from texts not protected by U.S. copyright law (does not
+contain a notice indicating that it is posted with permission of the
+copyright holder), the work can be copied and distributed to anyone in
+the United States without paying any fees or charges. If you are
+redistributing or providing access to a work with the phrase "Project
+Gutenberg" associated with or appearing on the work, you must comply
+either with the requirements of paragraphs 1.E.1 through 1.E.7 or
+obtain permission for the use of the work and the Project Gutenberg-tm
+trademark as set forth in paragraphs 1.E.8 or 1.E.9.
+
+1.E.3. If an individual Project Gutenberg-tm electronic work is posted
+with the permission of the copyright holder, your use and distribution
+must comply with both paragraphs 1.E.1 through 1.E.7 and any
+additional terms imposed by the copyright holder. Additional terms
+will be linked to the Project Gutenberg-tm License for all works
+posted with the permission of the copyright holder found at the
+beginning of this work.
+
+1.E.4. Do not unlink or detach or remove the full Project Gutenberg-tm
+License terms from this work, or any files containing a part of this
+work or any other work associated with Project Gutenberg-tm.
+
+1.E.5. Do not copy, display, perform, distribute or redistribute this
+electronic work, or any part of this electronic work, without
+prominently displaying the sentence set forth in paragraph 1.E.1 with
+active links or immediate access to the full terms of the Project
+Gutenberg-tm License.
+
+1.E.6. You may convert to and distribute this work in any binary,
+compressed, marked up, nonproprietary or proprietary form, including
+any word processing or hypertext form. However, if you provide access
+to or distribute copies of a Project Gutenberg-tm work in a format
+other than "Plain Vanilla ASCII" or other format used in the official
+version posted on the official Project Gutenberg-tm website
+(www.gutenberg.org), you must, at no additional cost, fee or expense
+to the user, provide a copy, a means of exporting a copy, or a means
+of obtaining a copy upon request, of the work in its original "Plain
+Vanilla ASCII" or other form. Any alternate format must include the
+full Project Gutenberg-tm License as specified in paragraph 1.E.1.
+
+1.E.7. Do not charge a fee for access to, viewing, displaying,
+performing, copying or distributing any Project Gutenberg-tm works
+unless you comply with paragraph 1.E.8 or 1.E.9.
+
+1.E.8. You may charge a reasonable fee for copies of or providing
+access to or distributing Project Gutenberg-tm electronic works
+provided that:
+
+* You pay a royalty fee of 20% of the gross profits you derive from
+  the use of Project Gutenberg-tm works calculated using the method
+  you already use to calculate your applicable taxes. The fee is owed
+  to the owner of the Project Gutenberg-tm trademark, but he has
+  agreed to donate royalties under this paragraph to the Project
+  Gutenberg Literary Archive Foundation. Royalty payments must be paid
+  within 60 days following each date on which you prepare (or are
+  legally required to prepare) your periodic tax returns. Royalty
+  payments should be clearly marked as such and sent to the Project
+  Gutenberg Literary Archive Foundation at the address specified in
+  Section 4, "Information about donations to the Project Gutenberg
+  Literary Archive Foundation."
+
+* You provide a full refund of any money paid by a user who notifies
+  you in writing (or by e-mail) within 30 days of receipt that s/he
+  does not agree to the terms of the full Project Gutenberg-tm
+  License. You must require such a user to return or destroy all
+  copies of the works possessed in a physical medium and discontinue
+  all use of and all access to other copies of Project Gutenberg-tm
+  works.
+
+* You provide, in accordance with paragraph 1.F.3, a full refund of
+  any money paid for a work or a replacement copy, if a defect in the
+  electronic work is discovered and reported to you within 90 days of
+  receipt of the work.
+
+* You comply with all other terms of this agreement for free
+  distribution of Project Gutenberg-tm works.
+
+1.E.9. If you wish to charge a fee or distribute a Project
+Gutenberg-tm electronic work or group of works on different terms than
+are set forth in this agreement, you must obtain permission in writing
+from the Project Gutenberg Literary Archive Foundation, the manager of
+the Project Gutenberg-tm trademark. Contact the Foundation as set
+forth in Section 3 below.
+
+1.F.
+
+1.F.1. Project Gutenberg volunteers and employees expend considerable
+effort to identify, do copyright research on, transcribe and proofread
+works not protected by U.S. copyright law in creating the Project
+Gutenberg-tm collection. Despite these efforts, Project Gutenberg-tm
+electronic works, and the medium on which they may be stored, may
+contain "Defects," such as, but not limited to, incomplete, inaccurate
+or corrupt data, transcription errors, a copyright or other
+intellectual property infringement, a defective or damaged disk or
+other medium, a computer virus, or computer codes that damage or
+cannot be read by your equipment.
+
+1.F.2. LIMITED WARRANTY, DISCLAIMER OF DAMAGES - Except for the "Right
+of Replacement or Refund" described in paragraph 1.F.3, the Project
+Gutenberg Literary Archive Foundation, the owner of the Project
+Gutenberg-tm trademark, and any other party distributing a Project
+Gutenberg-tm electronic work under this agreement, disclaim all
+liability to you for damages, costs and expenses, including legal
+fees. YOU AGREE THAT YOU HAVE NO REMEDIES FOR NEGLIGENCE, STRICT
+LIABILITY, BREACH OF WARRANTY OR BREACH OF CONTRACT EXCEPT THOSE
+PROVIDED IN PARAGRAPH 1.F.3. YOU AGREE THAT THE FOUNDATION, THE
+TRADEMARK OWNER, AND ANY DISTRIBUTOR UNDER THIS AGREEMENT WILL NOT BE
+LIABLE TO YOU FOR ACTUAL, DIRECT, INDIRECT, CONSEQUENTIAL, PUNITIVE OR
+INCIDENTAL DAMAGES EVEN IF YOU GIVE NOTICE OF THE POSSIBILITY OF SUCH
+DAMAGE.
+
+1.F.3. LIMITED RIGHT OF REPLACEMENT OR REFUND - If you discover a
+defect in this electronic work within 90 days of receiving it, you can
+receive a refund of the money (if any) you paid for it by sending a
+written explanation to the person you received the work from. If you
+received the work on a physical medium, you must return the medium
+with your written explanation. The person or entity that provided you
+with the defective work may elect to provide a replacement copy in
+lieu of a refund. If you received the work electronically, the person
+or entity providing it to you may choose to give you a second
+opportunity to receive the work electronically in lieu of a refund. If
+the second copy is also defective, you may demand a refund in writing
+without further opportunities to fix the problem.
+
+1.F.4. Except for the limited right of replacement or refund set forth
+in paragraph 1.F.3, this work is provided to you 'AS-IS', WITH NO
+OTHER WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT
+LIMITED TO WARRANTIES OF MERCHANTABILITY OR FITNESS FOR ANY PURPOSE.
+
+1.F.5. Some states do not allow disclaimers of certain implied
+warranties or the exclusion or limitation of certain types of
+damages. If any disclaimer or limitation set forth in this agreement
+violates the law of the state applicable to this agreement, the
+agreement shall be interpreted to make the maximum disclaimer or
+limitation permitted by the applicable state law. The invalidity or
+unenforceability of any provision of this agreement shall not void the
+remaining provisions.
+
+1.F.6. INDEMNITY - You agree to indemnify and hold the Foundation, the
+trademark owner, any agent or employee of the Foundation, anyone
+providing copies of Project Gutenberg-tm electronic works in
+accordance with this agreement, and any volunteers associated with the
+production, promotion and distribution of Project Gutenberg-tm
+electronic works, harmless from all liability, costs and expenses,
+including legal fees, that arise directly or indirectly from any of
+the following which you do or cause to occur: (a) distribution of this
+or any Project Gutenberg-tm work, (b) alteration, modification, or
+additions or deletions to any Project Gutenberg-tm work, and (c) any
+Defect you cause.
+
+Section 2. Information about the Mission of Project Gutenberg-tm
+
+Project Gutenberg-tm is synonymous with the free distribution of
+electronic works in formats readable by the widest variety of
+computers including obsolete, old, middle-aged and new computers. It
+exists because of the efforts of hundreds of volunteers and donations
+from people in all walks of life.
+
+Volunteers and financial support to provide volunteers with the
+assistance they need are critical to reaching Project Gutenberg-tm's
+goals and ensuring that the Project Gutenberg-tm collection will
+remain freely available for generations to come. In 2001, the Project
+Gutenberg Literary Archive Foundation was created to provide a secure
+and permanent future for Project Gutenberg-tm and future
+generations. To learn more about the Project Gutenberg Literary
+Archive Foundation and how your efforts and donations can help, see
+Sections 3 and 4 and the Foundation information page at
+www.gutenberg.org
+
+Section 3. Information about the Project Gutenberg Literary
+Archive Foundation
+
+The Project Gutenberg Literary Archive Foundation is a non-profit
+501(c)(3) educational corporation organized under the laws of the
+state of Mississippi and granted tax exempt status by the Internal
+Revenue Service. The Foundation's EIN or federal tax identification
+number is 64-6221541. Contributions to the Project Gutenberg Literary
+Archive Foundation are tax deductible to the full extent permitted by
+U.S. federal laws and your state's laws.
+
+The Foundation's business office is located at 809 North 1500 West,
+Salt Lake City, UT 84116, (801) 596-1887. Email contact links and up
+to date contact information can be found at the Foundation's website
+and official page at www.gutenberg.org/contact
+
+Section 4. Information about Donations to the Project Gutenberg
+Literary Archive Foundation
+
+Project Gutenberg-tm depends upon and cannot survive without
+widespread public support and donations to carry out its mission of
+increasing the number of public domain and licensed works that can be
+freely distributed in machine-readable form accessible by the widest
+array of equipment including outdated equipment. Many small donations
+($1 to $5,000) are particularly important to maintaining tax exempt
+status with the IRS.
+
+The Foundation is committed to complying with the laws regulating
+charities and charitable donations in all 50 states of the United
+States. Compliance requirements are not uniform and it takes a
+considerable effort, much paperwork and many fees to meet and keep up
+with these requirements. We do not solicit donations in locations
+where we have not received written confirmation of compliance. To SEND
+DONATIONS or determine the status of compliance for any particular
+state visit www.gutenberg.org/donate
+
+While we cannot and do not solicit contributions from states where we
+have not met the solicitation requirements, we know of no prohibition
+against accepting unsolicited donations from donors in such states who
+approach us with offers to donate.
+
+International donations are gratefully accepted, but we cannot make
+any statements concerning tax treatment of donations received from
+outside the United States. U.S. laws alone swamp our small staff.
+
+Please check the Project Gutenberg web pages for current donation
+methods and addresses. Donations are accepted in a number of other
+ways including checks, online payments and credit card donations. To
+donate, please visit: www.gutenberg.org/donate
+
+Section 5. General Information About Project Gutenberg-tm electronic works
+
+Professor Michael S. Hart was the originator of the Project
+Gutenberg-tm concept of a library of electronic works that could be
+freely shared with anyone. For forty years, he produced and
+distributed Project Gutenberg-tm eBooks with only a loose network of
+volunteer support.
+
+Project Gutenberg-tm eBooks are often created from several printed
+editions, all of which are confirmed as not protected by copyright in
+the U.S. unless a copyright notice is included. Thus, we do not
+necessarily keep eBooks in compliance with any particular paper
+edition.
+
+Most people start at our website which has the main PG search
+facility: www.gutenberg.org
+
+This website includes information about Project Gutenberg-tm,
+including how to make donations to the Project Gutenberg Literary
+Archive Foundation, how to help produce our new eBooks, and how to
+subscribe to our email newsletter to hear about new eBooks.
